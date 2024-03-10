@@ -1,0 +1,1 @@
+This is a simple to-do list application built using Salesforce. Users can easily manage their tasks by adding, marking as completed, and deleting them. Tasks are stored in a Salesforce custom object, ensuring data persistence.
