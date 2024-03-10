@@ -1,0 +1,17 @@
+.incompletebg
+{
+    background-color: #9be7fa;
+    border-color: black ;
+}
+
+.completebg
+{
+    background-color: #aafac3;
+    border-color: black;
+}
+
+.formattaskname
+{
+    font-size: large;
+    font-family: Verdana;
+}
